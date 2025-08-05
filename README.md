@@ -57,9 +57,6 @@ The comparative analysis revealed a clear winner for this specific task.
 
 **Final Conclusion**: For predicting house prices with this dataset, the traditional machine learning approach (Gradient Boosting) proved to be the more effective and practical solution.
 
-![Model Performance Comparison](image1.png)
-_A visualization comparing the predicted vs. actual values from one of the models._
-
 ## 🛠️ Technologies Used
 
 This project was built using Python 3 and the following major libraries:
